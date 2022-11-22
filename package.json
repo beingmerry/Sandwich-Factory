@@ -1,0 +1,17 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "description": "Factory: The Industrial Devolution clone in react.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "author": "Scott M.",
+  "license": "ISC"
+}
